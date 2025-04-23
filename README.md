@@ -1,44 +1,33 @@
-# ZapNews: Personalized News Feed
+ZapNews: Personalized News Feed
+ZapNews is a web-based application designed to deliver personalized news content to users based on their selected preferences. By aggregating articles from various sources using RSS feeds and filtering them according to user-defined categories, ZapNews ensures a tailored and efficient news consumption experience.​
 
-**ZapNews** is a web-based application designed to deliver personalized news content to users based on their selected preferences. By aggregating articles from various sources using RSS feeds and filtering them according to user-defined categories, ZapNews ensures a tailored and efficient news consumption experience.
+📌 Features
+User Authentication: Secure registration and login functionalities to manage user access.​
 
----
+Preference Selection: Users can choose their preferred news categories to customize their feed.​
 
-## 📌 Features
+RSS Feed Integration: Aggregates news articles from multiple sources using RSS feeds.​
 
-- **User Authentication**: Secure registration and login functionalities to manage user access.
+Content-Based Filtering: Filters and displays news articles based on user-selected categories.​
 
-- **Preference Selection**: Users can choose their preferred news categories to customize their feed.
+Responsive Web Interface: Developed using HTML and CSS to ensure a user-friendly experience across devices.​
 
-- **RSS Feed Integration**: Aggregates news articles from multiple sources using RSS feeds.
+Email Notifications: Sends confirmation and notification emails to users upon registration and other actions.​
 
-- **Content-Based Filtering**: Filters and displays news articles based on user-selected categories.
 
-- **Responsive Web Interface**: Developed using HTML and CSS to ensure a user-friendly experience across devices.
+🛠️ Tech Stack
+Frontend: HTML, CSS​
 
-- **Email Notifications**: Sends confirmation and notification emails to users upon registration and other actions.
+Backend: Python, Flask​
 
----
+Database: MySQL​
 
-## 🛠️ Tech Stack
+News Aggregation: RSS Feeds
 
-- **Frontend**: HTML, CSS
+🚀 Getting Started
+Prerequisites
+Python 3.x​
 
-- **Backend**: Python, Flask
+MySQL Server​
 
-- **Database**: MySQL
-
-- **News Aggregation**: RSS Feeds
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.x
-
-- MySQL Server
-
-- pip (Python package installer)
-
+pip (Python package installer)
